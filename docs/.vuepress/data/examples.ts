@@ -11,4 +11,10 @@ export default [
     link: 'https://www.wstee.com',
     avator: 'https://www.wstee.com/head.jpg',
   },
+{
+   thumbnail:
+      'https://gitee.com/Joey_Ma/joey_ma/raw/main/thumbnail.png',
+    link: 'https://joey_ma.gitee.io/',
+    avator: 'https://joey_ma.gitee.io/head_portrait.jpg',
+},
 ]
